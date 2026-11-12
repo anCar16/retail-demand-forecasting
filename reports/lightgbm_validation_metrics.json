@@ -1,0 +1,6 @@
+{
+  "baseline_rmsle": 0.5215880144679157,
+  "lightgbm_rmsle": 0.42799084308670404,
+  "relative_improvement_pct": 17.94465304287982,
+  "best_iteration": 1508
+}
