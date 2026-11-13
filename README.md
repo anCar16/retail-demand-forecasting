@@ -143,6 +143,6 @@ models/               trained models (generated)
 
 Python · Polars · pandas · LightGBM · scikit-learn · Matplotlib / seaborn · Jupyter · uv
 
-## License
+## Data
 
-[MIT](LICENSE). The Corporación Favorita data belongs to its owners and is subject to the Kaggle competition rules.
+The Corporación Favorita data belongs to its owners and is subject to the Kaggle competition rules.
