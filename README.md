@@ -7,7 +7,7 @@
 | Best baseline (`mean_28`) | 0.522 |
 | **Global LightGBM** | **0.428** |
 
-The forecasts and error tables from this project feed the [Demand Planning Copilot](https://github.com/anCar16/demand-planning-copilot), an LLM agent that lets planners ask about them in plain language.
+*The forecasts and error tables from this project feed the [Demand Planning Copilot](https://github.com/anCar16/demand-planning-copilot), an LLM agent that lets planners ask about them in plain language.*
 
 ## The problem
 
