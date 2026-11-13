@@ -14,7 +14,7 @@
 A grocery chain has to decide every day how much of each product family to send to each store. Too little means empty shelves and lost sales; too much means waste, especially for perishables. The task, taken from the Kaggle competition [Store Sales – Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting), is to forecast daily unit sales for every store and family over the next **16 days**.
 
 - **Data:** 3.0 million daily rows from 2013-01-01 to 2017-08-15, plus stores, transactions, oil prices and holidays.
-- **Metric:** RMSLE (root mean squared logarithmic error). It measures relative error, so a miss of 10 units on a family that sells 20 counts more than the same miss on one that sells 2,000.
+- **Metric:** RMSLE that measures relative error, so a miss of 10 units on a family that sells 20 counts more than the same miss on one that sells 2,000.
 
 ![Total daily sales](reports/figures/daily_sales_trend.png)
 
